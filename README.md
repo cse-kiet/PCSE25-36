@@ -1,15 +1,16 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: [Role Playing Game Using AI]
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Krish Gupta
+2. Sarvjeet Singh
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+1. Download all the Files 
+2. Install Unreal Engine 5.3
+3. Open RPG2.uproject file
+4. Project start in Unreal Engine Editor
+5. Press Play Button(Green arrow button)
+6. Now Project will Run
 
 ## Checklist:
 1. Final Project Report
